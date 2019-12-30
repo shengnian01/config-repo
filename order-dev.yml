@@ -8,9 +8,9 @@ spring:
       url: jdbc:mysql://47.101.162.2/SpringCloud_sell?characterEncoding=UTF-8&useSSL=false
   jpa:
     show-sql: true
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8762/eureka/
+# eureka:
+#   client:
+#     service-url:
+#       defaultZone: http://localhost:8762/eureka/
 env:
   dev
