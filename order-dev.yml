@@ -13,4 +13,4 @@ spring:
 #     service-url:
 #       defaultZone: http://localhost:8762/eureka/
 env:
-  dev1
+  dev2
